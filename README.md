@@ -15,7 +15,7 @@
 <h3 align="center">🗃 Código Collection</h3>
 <p align="center"> "db.universities.insert({})" </p>
 <br>
-### 🛠 Tecnologias
+<h3>🛠 Tecnologias</h3>
 
 ferramentas usadas no projeto:
 
