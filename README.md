@@ -2,15 +2,25 @@
 <br>
 <p align="center">Esta primeira parte do projeto foi desenvolvida para consumir uma <a href="http://universities.hipolabs.com/search?Middle">🔗 API JSON</a> que tem como conteúdo, uma lista mundial de universidades.</p>
 <br>
-<h3 align="center">💻 Evidências</h3>
+<h3 align="center">💻 Código API</h3>
 <br>
-<h1 align="center">
-  <img alt="api" title="api_request" src="Pictures\Untitled.png"/>
-</h1>
+<p align="center">var getJSON = require('get-json');
+
+getJSON ('http://universities.hipolabs.com/search?Midlle=', function (error, response){
+  
+  console.log(response);
+  [{
+    country: 'argentina',
+   },  
+   {
+    country: 'brasil',
+   },
+   {
+    country: 'chile',
+   },...</p>
 <br>
-<h1 align="center">
-  <img alt="banco" title="Collection" src="Pictures\Untitled2.png"/>
-</h1>
+<h3 align="center">🗃 Código Collection</h3>
+<p align="center>db.universities.insert({})</p>
 <br>
 ### 🛠 Tecnologias
 
