@@ -5,11 +5,11 @@
 <h3 align="center">💻 Evidências</h3>
 <br>
 <h1 align="center">
-  <img alt="api" title="api_request" src="C:\Users\Dakezin.Dev\Pictures\Pick\Untitled.png" />
+  <img alt="api" title="api_request" src="C:\Pick\Untitled.png" />
 </h1>
 <br>
 <h1 align="center">
-  <img alt="banco" title="Collection" src="C:\Users\Dakezin.Dev\Pictures\Pick\Untitled2.png" />
+  <img alt="banco" title="Collection" src="C:\Pick\Untitled2.png" />
 </h1>
 <br>
 ### 🛠 Tecnologias
