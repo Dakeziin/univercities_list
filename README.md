@@ -4,9 +4,10 @@
 <br>
 <h3 align="center">💻 Código API</h3>
 <br>
-<p align="center">var getJSON = require('get-json');
+<p align="center">
+  "var getJSON = require('get-json');
 
-getJSON ('http://universities.hipolabs.com/search?Midlle=', function (error, response){
+  getJSON ('http://universities.hipolabs.com/search?Midlle=', function (error, response){
   
   console.log(response);
   [{
@@ -17,10 +18,10 @@ getJSON ('http://universities.hipolabs.com/search?Midlle=', function (error, res
    },
    {
     country: 'chile',
-   },...</p>
+   },..."</p>
 <br>
 <h3 align="center">🗃 Código Collection</h3>
-<p align="center>db.universities.insert({})</p>
+<p align="center> "db.universities.insert({})" </p>
 <br>
 ### 🛠 Tecnologias
 
