@@ -17,7 +17,7 @@
 <br>
 <h3>🛠 Tecnologias</h3>
 
-ferramentas usadas no projeto:
+Ferramentas usadas na primeira parte do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 <br>
