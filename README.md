@@ -6,22 +6,14 @@
 <br>
 <p align="center">
   "var getJSON = require('get-json');
-
   getJSON ('http://universities.hipolabs.com/search?Midlle=', function (error, response){
-  
   console.log(response);
   [{
     country: 'argentina',
-   },  
-   {
-    country: 'brasil',
-   },
-   {
-    country: 'chile',
-   },..."</p>
+   },...
 <br>
 <h3 align="center">🗃 Código Collection</h3>
-<p align="center> "db.universities.insert({})" </p>
+<p align="center"> "db.universities.insert({})" </p>
 <br>
 ### 🛠 Tecnologias
 
